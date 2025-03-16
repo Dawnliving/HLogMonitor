@@ -1,5 +1,9 @@
 # HLogMonitor
-Listen the HDFS log to check the file whether it is modified
+Listen the HDFS log to check the file whether it is modified.
+
+It will show the modified content in command.
+
+(Further function to be continued)
 
 ***
 
