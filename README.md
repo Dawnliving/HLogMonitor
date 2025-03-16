@@ -7,7 +7,9 @@ It will show the modified content in command.
 
 ***
 
-Golang based
+Golang based 
+
+(Tested in ArchLinux)
 
 ***
 
