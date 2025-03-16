@@ -14,7 +14,7 @@ go build .
 ```
 
 ```shell
-bash ./sample_log/generate_logs.sh
+bash ./sample_log/generate_logs.sh ./sample_log/hdfs_sample.log
 ```
 
 ```shell
