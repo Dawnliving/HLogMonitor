@@ -18,7 +18,7 @@ bash ./sample_log/generate_logs.sh
 ```
 
 ```shell
-./monitor -file hdfs_sample.log interval 3
+./monitor -file sample_log/hdfs_sample.log -interval 3
 ```
 
 
