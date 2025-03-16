@@ -1,0 +1,22 @@
+2025-03-16 08:00:15,234 INFO org.apache.hadoop.hdfs.server.namenode.NameNode: STARTUP_MSG: Starting NameNode
+2025-03-16 08:00:15,987 INFO org.apache.hadoop.hdfs.server.namenode.NameNode: STARTUP_MSG: host = namenode01.hadoop.local/192.168.1.10
+2025-03-16 08:00:16,123 INFO org.apache.hadoop.hdfs.server.namenode.NameNode: STARTUP_MSG: args = [-format]
+2025-03-16 08:00:16,456 INFO org.apache.hadoop.hdfs.server.common.Storage: Storage directory /data/hadoop/hdfs/name has been successfully formatted.
+2025-03-16 08:00:17,890 INFO org.apache.hadoop.hdfs.server.namenode.FSEditLog: Edit logging is enabled
+2025-03-16 08:00:18,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Scheduled a checkpoint for transaction ID 0
+2025-03-16 08:00:20,567 INFO org.apache.hadoop.hdfs.server.namenode.NameNode: NameNode RPC up at: namenode01.hadoop.local/192.168.1.10:8020
+2025-03-16 08:00:21,789 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Starting services required for active state
+2025-03-16 08:00:22,345 INFO org.apache.hadoop.hdfs.server.namenode.NameNode: NameNode up at: http://namenode01.hadoop.local:9870
+2025-03-16 08:00:25,678 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: STARTUP_MSG: Starting DataNode
+2025-03-16 08:00:26,123 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: STARTUP_MSG: host = datanode01.hadoop.local/192.168.1.20
+2025-03-16 08:00:26,789 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: BLOCK* registerDatanode: at namenode01.hadoop.local/192.168.1.10:8020
+2025-03-16 08:00:27,234 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Block pool BP-123456789-192.168.1.10-1679037615987 (Datanode Uuid 550e8400-e29b-41d4-a716-446655440000) service to namenode01.hadoop.local/192.168.1.10:8020 starting to offer service
+2025-03-16 08:05:15,456 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Adding new block pool ID BP-123456789-192.168.1.10-1679037615987
+2025-03-16 08:05:16,789 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Triggering replication work
+2025-03-16 08:10:34,567 WARN org.apache.hadoop.hdfs.server.datanode.DataNode: Slow BlockReceiver write data to disk cost 1036 milliseconds (threshold=300ms)
+2025-03-16 08:15:45,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Directory /user/hadoop created
+2025-03-16 08:20:12,789 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: File /user/hadoop/input.txt created
+2025-03-16 08:25:23,456 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Replica for block blk_1234567890123456789 created on host 192.168.1.20
+2025-03-16 08:30:34,890 WARN org.apache.hadoop.hdfs.server.namenode.NameNode: Slow name node detection: Detected slow call to getFileInfo for file /user/hadoop/input.txt (duration=980ms)
+2025-03-16 08:35:45,567 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Safe mode is OFF
+2025-03-16 08:40:56,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total blocks: 128 Total files: 42 Total directories: 16
