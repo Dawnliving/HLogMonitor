@@ -37,3 +37,4 @@
 2025-03-24 17:25:56,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total blocks: 128 Total files: 42 Total directories: 16
 2025-03-24 17:26:56,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total blocks: 128 Total files: 42 Total directories: 16
 2025-03-24 17:26:57,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total blocks: 128 Total files: 42 Total directories: 16
+2025-03-24 17:34:34,890 WARN org.apache.hadoop.hdfs.server.namenode.NameNode: Slow name node detection: Detected slow call to getFileInfo for file /user/hadoop/input.txt (duration=980ms)
