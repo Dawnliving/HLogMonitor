@@ -20,3 +20,20 @@
 2025-03-16 08:30:34,890 WARN org.apache.hadoop.hdfs.server.namenode.NameNode: Slow name node detection: Detected slow call to getFileInfo for file /user/hadoop/input.txt (duration=980ms)
 2025-03-16 08:35:45,567 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Safe mode is OFF
 2025-03-16 08:40:56,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total blocks: 128 Total files: 42 Total directories: 16
+2025-03-24 16:02:56,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total blocks: 128 Total files: 42 Total directories: 16
+2025-03-24 16:04:56,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total blocks: 128 Total files: 42 Total directories: 16
+2025-03-24 16:10:56,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total blocks: 128 Total files: 42 Total directories: 16
+2025-03-24 16:12:56,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total blocks: 128 Total files: 42 Total directories: 16
+2025-03-24 16:18:56,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total blocks: 128 Total files: 42 Total directories: 16
+2025-03-24 16:21:56,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total blocks: 128 Total files: 42 Total directories: 16
+2025-03-24 16:24:56,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total blocks: 128 Total files: 42 Total directories: 16
+2025-03-24 16:27:56,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total blocks: 128 Total files: 42 Total directories: 16
+2025-03-24 16:29:56,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total blocks: 128 Total files: 42 Total directories: 16
+2025-03-24 16:39:56,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total blocks: 128 Total files: 42 Total directories: 16
+2025-03-24 16:46:56,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total blocks: 128 Total files: 42 Total directories: 16
+2025-03-24 16:52:56,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total blocks: 128 Total files: 42 Total directories: 16
+2025-03-24 16:53:56,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total blocks: 128 Total files: 42 Total directories: 16
+2025-03-24 16:56:56,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total blocks: 128 Total files: 42 Total directories: 16
+2025-03-24 17:25:56,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total blocks: 128 Total files: 42 Total directories: 16
+2025-03-24 17:26:56,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total blocks: 128 Total files: 42 Total directories: 16
+2025-03-24 17:26:57,234 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Total blocks: 128 Total files: 42 Total directories: 16
